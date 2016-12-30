@@ -1,0 +1,50 @@
+function add(){
+    console.log(a); }
+undefined
+add();
+VM623:2 Uncaught ReferenceError: a is not defined
+    at add (<anonymous>:2:17)
+    at <anonymous>:1:1
+add @ VM623:2
+(anonymous) @ VM633:1
+ var a 
+undefined
+function add(){
+    console.log(a); }
+undefined
+add()
+VM669:2 undefined
+undefined
+add();
+VM669:2 undefined
+undefined
+var a = 5;
+undefined
+ var a 
+undefined
+function add(){
+    console.log(a); }
+undefined
+var a = 5;
+undefined
+add();
+VM695:2 5
+undefined
+ var a 
+undefined
+function add(){
+    console.log(a); var a=5; }
+undefined
+add();
+VM721:2 undefined
+undefined
+ var a 
+undefined
+var a = 5;
+undefined
+function add(){
+    console.log(a); }
+undefined
+add();
+VM728:2 5
+undefine
